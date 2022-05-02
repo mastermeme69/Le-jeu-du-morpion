@@ -4,7 +4,7 @@
 winexe
 C#
 .cs
-C:\Users\lucar\Downloads\TicTacToe\TicTacToe\TicTacToe\obj\Debug\
+C:\Users\lucar\TicTacToe\TicTacToe\obj\Debug\
 TicTacToe
 none
 false
@@ -13,7 +13,7 @@ DEBUG;TRACE
 4874193943
 
 242088815120
-71335633251
+71-559396177
 App.xaml;GameViews\GameWindow.xaml;GameViews\TicTacToeControls.xaml;GameViews\TicTacToeGrid.xaml;
 
 False
